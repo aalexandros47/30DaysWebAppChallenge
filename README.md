@@ -9,8 +9,15 @@ Here you'll find a variety of projects, ranging from interactive web games to us
 ### Featured Projects
 
 - **Calculator** - https://mycalculatorwebapplication.netlify.app/ 
-- **Weather App** - Get real-time weather updates for your location.
-- **To-Do List** - Organize your tasks with this simple yet effective tool.
+- **Dice Game** - https://eaticeplaydice.netlify.app/
+- **Music Player** - https://musicislife.netlify.app/
+- **Password Generator** - https://passkeygenerator22.netlify.app/
+- **Qizz App** - https://quizzapplicationv2.netlify.app/
+- **Stop Watch** - https://timeandtidewaitfornone.netlify.app/
+- **Text To Speech** - https://youralexa.netlify.app/
+- **Todo List** - https://organizelife.netlify.app/
+- **Text To Speech** - https://youralexa.netlify.app/
+- **Text To Speech** - https://ilovesummer.netlify.app/
 
 ## Technologies
 
