@@ -17,7 +17,8 @@ Here you'll find a variety of projects, ranging from interactive web games to us
 - **Text To Speech** - https://youralexa.netlify.app/
 - **Todo List** - https://organizelife.netlify.app/
 - **Text To Speech** - https://youralexa.netlify.app/
-- **Text To Speech** - https://ilovesummer.netlify.app/
+- **Weather APP** - https://ilovesummer.netlify.app/
+- **Drum Kit** - https://beatboxbuddy.netlify.app/
 
 ## Technologies
 
